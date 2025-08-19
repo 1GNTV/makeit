@@ -6,8 +6,8 @@ const config = {
   },
   production: {
     // Replace with your actual backend URL when deployed
-    socketUrl: 'https://your-backend-domain.com',
-    uploadUrl: 'https://your-backend-domain.com/upload'
+    socketUrl: 'https://makeit-meme-backend.onrender.com',
+    uploadUrl: 'https://makeit-meme-backend.onrender.com/upload'
   }
 }
 
